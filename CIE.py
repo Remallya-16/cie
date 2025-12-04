@@ -13,7 +13,7 @@ else:
     ownername = "Kishore"
     GST = 5.0
     totalsales = 10000
-    print("Shop Name     :", shopname)
-    print("Owner Name    :", ownername)
-    print("GST (%)       :", GST)
-    print("Total Sales   :", totalsales)
+print("Shop Name     :", shopname)
+print("Owner Name    :", ownername)
+print("GST (%)       :", GST)
+print("Total Sales   :", totalsales)
